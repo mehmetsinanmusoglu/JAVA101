@@ -29,3 +29,8 @@ Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı b
 𝜋 sayısını = 3.14
 
 Formül : (𝜋 * (r*r) * 𝛼) / 360
+# [Vücut Kitle İndeksi Hesaplama](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/vucutKitleEndeks)
+
+Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdıran program.
+## Formül
+Kilo (kg) / Boy(m) * Boy(m)
