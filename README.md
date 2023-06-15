@@ -22,3 +22,9 @@ Taksimetre KM başına 2.20 TL tutmaktadır.
 Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır.
 
 Taksimetre açılış ücreti 10 TL'dir.
+# [Daire Diliminin Alanını bulan Program]()
+Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program.
+
+𝜋 sayısını = 3.14
+
+Formül : (𝜋 * (r*r) * 𝛼) / 360
