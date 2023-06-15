@@ -34,3 +34,14 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
 Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdıran program.
 ## Formül
 Kilo (kg) / Boy(m) * Boy(m)
+
+# [Manav kasa Hesaplama](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/manavKasa)
+kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program
+
+Meyveler ve KG Fiyatları
+
+Armut : 2,14 TL
+Elma : 3,67 TL
+Domates : 1,11 TL
+Muz: 0,95 TL
+Patlıcan : 5,00 TL
