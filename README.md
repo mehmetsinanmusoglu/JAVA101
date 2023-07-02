@@ -140,3 +140,28 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır:
 100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır:
 
 Örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir.
+
+
+# [3 ve 4 Tam Bölünen Sayıların Ortalamasını Bulan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/ucVeDordeBolum)
+- 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program.
+# [Dördün Katlarını Bulup Toplayan Tek Sayı Girldimi Oyunu Bitiren Proğram](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/dordunKatlari)
+- tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program.
+# [Dördün Ve Beşin Kuvvetlerini Girilen Sayıya Kadar Yazdıran Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/dordunVeBesinKuvvetleri)
+- girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program.
+# [Kombinasyon](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/cobination)
+- N elemanlı bir kümenin r elemanlı alt küme sayısını bulan Proğram.
+
+formülü: C(n,r) = n! / (r! * (n-r)!)
+
+# [Üslü Sayı Hesaplayan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/usluSayiHesap)
+- kullanıcının girdiği değerler ile üslü sayı hesaplayan program.
+# [Harmonik Serisini Bulan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/harmonicSeries)
+- Harmonik Seri Formülü : 1+(1/2)+... 
+# [Yıldızlarla Elmasa Yapma](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/yildizElmasYap)
+- girilen sayının büyüklüğüne göre elmas şeklinde yıldızları döşeyen program.
+# [ATM projesi](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/atmProjesi)
+- Giriş bilgilerini sorup 3 defa yanlış cevap verirsen kartını bloke ediyor. 
+
+- Basit Para yatırma,Para çekme, Bakiye bilgisi gösteme işlemleri yapan program.
+# [Ebob Ekok ](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/ebobEkonBul)
+- Alınan iki sayının ebob ekok unu ekranda gösteren program.
