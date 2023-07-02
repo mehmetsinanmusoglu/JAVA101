@@ -155,6 +155,8 @@ formülü: C(n,r) = n! / (r! * (n-r)!)
 
 # [Üslü Sayı Hesaplayan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/usluSayiHesap)
 - kullanıcının girdiği değerler ile üslü sayı hesaplayan program.
+# [Basamak Rakamlarını toplayanProgram](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/basmakToplam)
+- Bir sayının basamak sayılarının toplamını hesaplayan program.
 # [Harmonik Serisini Bulan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/harmonicSeries)
 - Harmonik Seri Formülü : 1+(1/2)+... 
 # [Yıldızlarla Elmasa Yapma](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/yildizElmasYap)
