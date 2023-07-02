@@ -2,12 +2,15 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Değişken ismi ve tipi beliliyoruz.
         int ay, gun;
+        //Gerekli bilgileri değişkenlere atıyoruz.
         Scanner input = new Scanner(System.in);
         System.out.print("Lütfen doğum ayınızı girin (1-12): ");
         ay = input.nextInt();
         System.out.print("Bir gün giriniz(1-31)");
         gun = input.nextInt();
+        //if-else koşul blokları ile oğru çıktılara atıyoruz.
         if (ay == 4) {
             if (gun >= 1 && gun <= 20) {
                 System.out.print("Koç burcusun");

@@ -2,10 +2,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Değişken ismi ve tipi beliliyoruz.
         int yil;
+
+        //Bir değer istiyoruz ve değişkenimize eşitliyoruz
         Scanner input = new Scanner(System.in);
         System.out.print("Lütfen bir yıl giriniz : ");
         yil = input.nextInt();
+        //Switch-case bloğu ile kontrolleri gerçekleştrip çıktı veriyoruz.
         switch (yil % 12) {
             case 0:
                 System.out.println("Çin Zodyağı Burcunuz: Maymun");

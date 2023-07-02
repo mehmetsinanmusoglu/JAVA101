@@ -2,8 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Değişkenlerin ismilerini ve tipilerini beliliyoruz.
         double tutar, mesafe, indirim;
         int yas, yolcutipi;
+
+        //Gerekli bilgileri kişiden istiyoruz ve değikenlere atıyoruz.
         Scanner input = new Scanner(System.in);
         System.out.print("Lütfen Gidilecek Mesafeyi KM cinsinden giriniz: ");
         mesafe = input.nextDouble();
@@ -12,6 +15,7 @@ public class Main {
         System.out.print("Lütfen yolculuk türünü seçiniz (Tekyön için 1,Gidiş-Dönüş için 2): ");
         yolcutipi = input.nextInt();
         tutar = mesafe * 0.1;
+        //if-else koşul blokları ile tutarı hesaplayıp çıktıyı veriyoruz.
         if (yas < 12) {
             indirim = tutar * 0.5;
             tutar = tutar - indirim;
