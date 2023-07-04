@@ -174,9 +174,9 @@ formülü: C(n,r) = n! / (r! * (n-r)!)
 - Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sayıların) toplamı kendisine eşit olan sayıya mükemmel sayı denir. Mükemmel sayıyı bulan program.
 # [Yıldızlarla Ters Üçgen yapan PRogram](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/tersUcgen)
 -  basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen program.
-# [1-100 Arasındaki Asal sayıları Bulan Program] (https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/asalSayilar)
+# [1-100 Arasındaki Asal sayıları Bulan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/asalSayilar)
 - 1 - 100 arasındaki asal sayıları ekrana yazdıran program.
-# [Fibonacci Serisi Bulan Program] (https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/fibonacciSeries)
+# [Fibonacci Serisi Bulan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/fibonacciSeries)
 - Fibonacci serisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.
 
 Fibonacci dizisi, 0'dan başlar ve sonsuza kadar. Her rakam, bir önceki rakamla toplanır. Elde edilen sonuç rakamın sağ tarafına yazılır.
