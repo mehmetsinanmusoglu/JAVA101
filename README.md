@@ -180,3 +180,56 @@ formülü: C(n,r) = n! / (r! * (n-r)!)
 - Fibonacci serisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.
 
 Fibonacci dizisi, 0'dan başlar ve sonsuza kadar. Her rakam, bir önceki rakamla toplanır. Elde edilen sonuç rakamın sağ tarafına yazılır.
+# [Girrilen Sayıların Palidrom Kontrolünü Yapan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/palindromNumber)
+-Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan sayılardır.
+# [Galişmiş Hesap Makinesi](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/gelismisHesapMak)
+Hesap makinesinin fonksiyonları :
+- 1- Toplama İşlemi
+- 2- Çıkarma İşlemi
+- 3- Çarpma İşlemi
+- 4- Bölme işlemi
+- 5- Üslü Sayı Hesaplama
+- 6- Faktoriyel Hesaplama
+- 7- Mod Alma
+- 8- Dikdörtgen Alan ve Çevre Hesabı
+# [Recursive Metotlar ile Üslü Sayı Hesaplama](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/ustAlmaRecursive)
+- Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan program.
+# [Recursive Metotlar ile Asal Sayı Bulma](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/asalRecursive)
+- Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan program.
+# [Recursive Metotlar ile Desene Oluşturma](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/fonForPattern)
+- Girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 rakamını çıkaran sonrada Girelen sayıya kadar da 5 rakamı ile toplayan progam.
+# [Öğrenci Bilgi Sistemi](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/oBS)
+- Ögranci Bilgi Similasyonu.
+# [Boks Oyunu](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/boksSimulation)
+-Java Sınıflar ile boks maçını simüle eden programı.
+# [Maaş Hesaplayıcı](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/salaryAccount)
+Sınıfın Nitelikleri
+- name : Çalışanın adı ve soyadı
+- salary : Çalışanın maaşı
+- workHours : Haftalık çalışma saati
+- hireYear : İşe başlangıç yılı
+- Sınıfın Metotları
+Employee(name,salary,workHours,hireYear) : Kurucu metot olup 4 parametre alacaktır.
+- tax() : Maaşa uygulanan vergiyi hesaplayacaktır.
+- Çalışanın maaşı 1000 TL'den az ise vergi uygulanmayacaktır.
+- Çalışanın maaşı 1000 TL'den fazla ise maaşının %3'ü kadar vergi uygulanacaktır.
+- bonus() : Eğer çalışan haftada 40 saatten fazla çalışmış ise fazladan çalıştığı her saat başına 30 TL olacak şekilde bonus ücretleri hesaplayacaktır.
+- raiseSalary() : Çalışanın işe başlangıç yılına göre maaş artışını hesaplayacaktır. Şuan ki yılı 2021 olarak alın.
+- Eğer çalışan 10 yıldan az bir süredir çalışıyorsa maaşına %5 zam yapılacaktır.
+- Eğer çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 zam yapılacaktır.
+- Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
+- toString() : Çalışana ait bilgileri ekrana bastıracaktır.
+# [Dizideki Sayıların Harmonik Ortalamasını Hesaplayan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/harmonicAverage)
+- Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
+# [Dizideki Elemanların Girilen Sayıdan Yakın Olan Küçük ve Büyük SayıLarı](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/arrayNearMinAndMax)
+- Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program.
+# [Çok Boyutlu Dizilerle Ekrana B Yazdırma](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/writeBWithStars)
+- Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan program.
+# [Dizideki Tekrar Eden Çift Sayıları Bulan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/doubleNumberFind)
+- Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program.
+# [Dizideki Minimum Ve Maksimum Değerleri Bılan Program](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/arrayMinAndMax)
+- Dizi Değelerini Dışarıdan Alan ve Dizinin elemanlarını küçükten büyüğe sıralayan program.
+# [Dizideki Elemanların Frekansı](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/arryFrequency)
+- Dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan program.
+# [Matriks Transpozu](https://github.com/mehmetsinanmusoglu/JAVA101/tree/main/transposeOfMatix)
+- Çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program.
