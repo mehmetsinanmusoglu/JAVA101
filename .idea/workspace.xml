@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96e7803a-9757-48f2-8afe-70055af15134" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/UcgenAlan/UcgenAlan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayMinAndMax/arrayMinAndMax.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayNearMinAndMax/arrayNearMinAndMax.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arryFrequency/arryFrequency.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artikYil/artikYil.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asalRecursive/asalRecursive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asalSayilar/asalSayilar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atmProjesi/atmProjesi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basmakToplam/basmakToplam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boksSimulation/boksSimulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/burcBulma/burcBulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinBurcHesp/cinBurcHesp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cobination/cobination.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daireDilimAlan/daireDilimAlan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/degerMinMaxBul/degerMinMaxBul.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dordunKatlari/dordunKatlari.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dordunVeBesinKuvvetleri/dordunVeBesinKuvvetleri.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doubleNumberFind/doubleNumberFind.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebobEkonBul/ebobEkonBul.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacciSeries/fibonacciSeries.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonForPattern/fonForPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelismisHesapMak/gelismisHesapMak.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/girilenSayidaCiftleriBulma/girilenSayidaCiftleriBulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonicAverage/harmonicAverage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonicSeries/harmonicSeries.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/havaDurumOneri/havaDurumOneri.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbSirala/kbSirala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kdvHesap/kdvHesap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kullaniciGirisi/kullaniciGirisi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manavKasa/manavKasa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notOrtHesap/notOrtHesap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oBS/oBS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindromNumber/palindromNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perfectNumber/perfectNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salaryAccount/salaryAccount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sinifDurum/sinifDurum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taksimetre/taksimetre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tersUcgen/tersUcgen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transposeOfMatix/transposeOfMatix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucVeDordeBolum/ucVeDordeBolum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucakBiletFiyatHes/ucakBiletFiyatHes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluSayiHesap/usluSayiHesap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ustAlmaRecursive/ustAlmaRecursive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vucutKitleEndeks/vucutKitleEndeks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writeBWithStars/writeBWithStars.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yildizElmasYap/yildizElmasYap.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2UKNPHXQ2xbMe0nFh8C8zvcsD0S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mehme/Desktop/JAVA101"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96e7803a-9757-48f2-8afe-70055af15134" name="Changes" comment="" />
+      <created>1692684287526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692684287526</updated>
+    </task>
+    <servers />
+  </component>
+</project>
